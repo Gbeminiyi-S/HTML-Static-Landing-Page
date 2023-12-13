@@ -23,4 +23,4 @@ The content section includes a title "Put in use some tags," navigation links fo
 
 ## Customization
 
-The gallery is highly customizable. You can modify the styles by editing the `styles/styles.css` file. Additionally, you can replace the placeholder images in the `galleries` section with your own images.
+The gallery is highly customizable. You can modify the styles by editing the `styles/styles.css` file. Additionally, you can replace the placeholder images in the `assets` section with your own images.

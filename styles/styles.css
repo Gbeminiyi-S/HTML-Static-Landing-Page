@@ -152,7 +152,7 @@
 
 #photo5 {
     background-image: url("../assets/5.jpg");
-    height: 150px;
+    height: 180px;
 }
 
 #photo6 {
@@ -180,6 +180,14 @@
     .box {
         height: 100px;
     }
+
+    #photo2 {
+        margin-bottom: 10px;
+    }
+
+    #photo5 {
+        height: 140px;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -196,6 +204,10 @@
 
     .box {
         height: 120px;
+    }
+
+    #photo5 {
+        height: 140px;
     }
 
     #text_at_left {

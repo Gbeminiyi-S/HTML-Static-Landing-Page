@@ -16,7 +16,7 @@ The content section includes a title "Put in use some tags," navigation links fo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/Gbeminiyi-S/HTML-Static-Landing-Page.git`
 2. Navigate to the project directory: `cd your-repository`
 3. Open the `index.html` file in a web browser.
 

@@ -16,9 +16,15 @@ The content section includes a title "Put in use some tags," navigation links fo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Gbeminiyi-S/HTML-Static-Landing-Page.git`
-2. Navigate to the project directory: `cd HTML-Static-Landing-Page`
-3. Open the `index.html` file in a web browser.
+1. Clone the Repository on your terminal:
+   ```
+   git clone https://github.com/Gbeminiyi-S/HTML-Static-Landing-Page.git
+   cd GPA-Calculator
+   ```
+2. Run the Program:
+ ```
+index.html
+```
 
 
 ## Customization
